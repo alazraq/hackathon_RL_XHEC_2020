@@ -14,7 +14,7 @@ from tensorforce import Agent, Environment
 # Gym
 import gym
 
-# utils
+# Utils
 from utils import (
     clip_states,
     info_extractor,
